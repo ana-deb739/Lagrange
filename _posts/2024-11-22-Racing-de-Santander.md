@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Explorando el Futuro de la Inteligencia Artificial"
+title: "Racing de Santander"
 date: "2024-11-19"
 categories: jekyll update
 image: racing.jpg
